@@ -4,7 +4,7 @@
  * Install, update and uninstall functions for the profilename install profile.
  */
 
-use Drupal\Core\Config\FileStorage;
+
 
 /**
  * Implements hook_install().
